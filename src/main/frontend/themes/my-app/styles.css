@@ -1,0 +1,9 @@
+@import url('./main-layout.css');
+@import url('./views/home-view.css');
+@import url('./views/sales-view.css');
+@import url('./views/customers-view.css');
+@import url('./views/products-view.css');
+@import url('./views/quotes-view.css');
+@import url('./views/order-view.css');
+@import url('./views/tickets-view.css');
+@import url('./views/login-view.css');
